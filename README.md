@@ -1,32 +1,7 @@
 # NBA ETL
-
-
-
-## Team Effort
-
-
-
-## Project Proposal
-
-
+In this project we decided to pull datasets pertaining to sports that could analyze NBA teams’ salaries and stats from 2003 to 2017.  We wanted to determine if spending more money on salary made an impact on the team’s stats.
 
 ## Finding Data
+There were two different websites we decided to pull data from; Kaggle and nba.com.  Kaggle we were able to find a dataset already in a CSV that had team salaries and  we utilized NBA.com to scrap the website to pull back the data we needed to the stats of the NBA teams and convert to CSV.
 
-
-
-## Data Cleanup & Analysis
-
-
-
-## Project Report
-
-At the end of the week, your team will submit a Final Report that describes the following:
-
-* **E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
-
-* **T**ransform: what data cleaning or transformation was required.
-
-* **L**oad: the final database, tables/collections, and why this was chosen.
-
-Please upload the report to Github and submit a link to Bootcampspot.
 
